@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.0.4](https://github.com/uid-11222/ts-redux-store/tree/v0.0.4) (2019-10-12)
+
+[Full Changelog](https://github.com/uid-11222/ts-redux-store/compare/v0.0.3...v0.0.4)
+
+- [fix #2 -- links in CHANGELOG.md](https://github.com/uid-11222/ts-redux-store/commit/d9a5fcaf0cb8deca7857b862ed42326861659c95)
+
 ## [v0.0.3](https://github.com/uid-11222/ts-redux-store/tree/v0.0.3) (2019-10-12)
 
 [Full Changelog](https://github.com/uid-11222/ts-redux-store/compare/v0.0.2...v0.0.3)
