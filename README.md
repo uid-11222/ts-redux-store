@@ -1,6 +1,6 @@
 # ts-redux-store
 
-[![Version][version-image]](package.json)
+[![Version][version-image]](https://www.npmjs.com/package/ts-redux-store)
 [![dependencies][dependencies-image]](package.json)
 [![devDependencies][dev-dependencies-image]](package.json)
 [![peerDependencies][peer-dependencies-image]](package.json)
