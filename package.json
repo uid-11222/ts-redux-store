@@ -1,0 +1,37 @@
+{
+  "name": "ts-redux-store",
+  "version": "0.0.1",
+  "description": "Fully type-safed and scalable redux store.",
+  "main": "index.js",
+  "scripts": {
+    "badges": "node scripts/badges",
+    "build": "mkdir -v build",
+    "changelog": "node scripts/changelog",
+    "cp:meta": "cp -v LICENSE package.json README.md build/",
+    "postbadges": "git add README.md",
+    "postchangelog": "git add CHANGELOG.md",
+    "postbuild": "npm run cp:meta",
+    "postversion": "git push --follow-tags && npm run release",
+    "prebuild": "rm -rfv build",
+    "prerelease": "npm run build",
+    "release": "npm publish build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "npm run badges && npm run changelog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uid-11222/ts-redux-store.git"
+  },
+  "keywords": [
+    "action",
+    "redux",
+    "store",
+    "typescript"
+  ],
+  "author": "uid-11222",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uid-11222/ts-redux-store/issues"
+  },
+  "homepage": "https://github.com/uid-11222/ts-redux-store#readme"
+}
