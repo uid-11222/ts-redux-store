@@ -15,4 +15,4 @@ Fully type-safed and scalable redux store.
 [dev-dependencies-image]: https://img.shields.io/badge/devDependencies-0-brightgreen.svg?longCache=true&style=flat-square "devDependencies"
 [peer-dependencies-image]: https://img.shields.io/badge/peerDependencies-0-brightgreen.svg?longCache=true&style=flat-square "peerDependencies"
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?longCache=true&style=flat-square "The MIT License"
-[version-image]: https://img.shields.io/badge/version-0.0.2-blue.svg?longCache=true&style=flat-square "Version"
+[version-image]: https://img.shields.io/badge/version-0.0.3-blue.svg?longCache=true&style=flat-square "Version"

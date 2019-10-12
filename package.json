@@ -1,6 +1,6 @@
 {
   "name": "ts-redux-store",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fully type-safed and scalable redux store.",
   "main": "index.js",
   "scripts": {
